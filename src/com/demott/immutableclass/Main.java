@@ -10,8 +10,9 @@ public class Main {
 		System.out.println(car.year);
 
 		//
-		// car.make = "Ford";
-		// Any attempt to change to the attributes will render an error due to it being
+		//car.make = "Ford"; // Will not compile
+		//
+		// Any attempt to change to the attributes will render an error due to the attribute it being
 		// final.
 		//
 		// Any attempt to extend the class will render and error due to the class being
