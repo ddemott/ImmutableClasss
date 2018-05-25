@@ -1,1 +1,1 @@
-# imutable-class
+# immutable-class
